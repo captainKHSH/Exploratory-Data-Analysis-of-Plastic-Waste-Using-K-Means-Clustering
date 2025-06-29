@@ -10,17 +10,17 @@ Plastic pollution is a critical environmental issue affecting ecosystems and hum
 ## Data Description
 
 **Source:**
-- The dataset is sourced from Our World in Data.
+  - The dataset is sourced from Our World in Data.
 
 **Variables:**
-- Country: Name of the country
-- Year: Year of observation (2010 or 2019)
-- Mismanaged_Waste_per_Capita: Mismanaged plastic waste per capita (kg/day)
-- Total_Mismanaged_Waste: Total mismanaged plastic waste (tonnes)
-- Additional columns may include GDP per capita, population, etc.
+  - Country: Name of the country
+  - Year: Year of observation (2010 or 2019)
+  - Mismanaged_Waste_per_Capita: Mismanaged plastic waste per capita (kg/day)
+  - Total_Mismanaged_Waste: Total mismanaged plastic waste (tonnes)
+  - Additional columns may include GDP per capita, population, etc.
 
 **Format:**
-- CSV file, located in the data/ directory.
+  - CSV file, located in the data/ directory.
 
 
 ---
