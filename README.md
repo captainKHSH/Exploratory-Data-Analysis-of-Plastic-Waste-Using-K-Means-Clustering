@@ -35,7 +35,9 @@ Plastic pollution is a critical environmental issue affecting ecosystems and hum
 
 ```bash
 git clone https://github.com/yourusername/Exploratory-Data-Analysis-of-Plastic-Waste-Using-K-Means-Clustering.git
+
 cd Exploratory-Data-Analysis-of-Plastic-Waste-Using-K-Means-Clustering
+
 pip install -r requirements.txt
 ```
 ## Data:
