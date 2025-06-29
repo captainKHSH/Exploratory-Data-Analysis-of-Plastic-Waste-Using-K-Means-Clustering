@@ -28,8 +28,8 @@ Plastic pollution is a critical environmental issue affecting ecosystems and hum
 ## Installation & Setup
 
 **Prerequisites:**  
-- Python 3.7+  
-- `pip` for package management
+  - Python 3.7+  
+  - `pip` for package management
 
 **Install dependencies:**
 
@@ -52,23 +52,23 @@ jupyter notebook notebooks/project-presentation.ipynb
 ## Methodology
 
 1. Data Preprocessing
-- Load and clean the dataset, handling missing values and filtering for years of interest (2010, 2019).
+  - Load and clean the dataset, handling missing values and filtering for years of interest (2010, 2019).
 
 2. Feature Selection & Scaling
-- Select relevant features: mismanaged plastic waste per capita and total mismanaged plastic waste.
-- Standardize features for clustering.
+  - Select relevant features: mismanaged plastic waste per capita and total mismanaged plastic waste.
+  - Standardize features for clustering.
 
 3. K-Means Clustering
-- Apply K-Means clustering to group countries.
-- Use the elbow method to determine the optimal number of clusters.
+  - Apply K-Means clustering to group countries.
+  - Use the elbow method to determine the optimal number of clusters.
 
 4. Visualization
-- Visualize clusters using scatter plots and, optionally, world maps.
+  - Visualize clusters using scatter plots and, optionally, world maps.
 
 5. Results & Visualizations
-- Countries are grouped into clusters based on their plastic waste profiles.
-- Visualizations highlight geographic and economic patterns in plastic waste mismanagement.
-- Key findings are discussed in the notebook and summary plots.
+  - Countries are grouped into clusters based on their plastic waste profiles.
+  - Visualizations highlight geographic and economic patterns in plastic waste mismanagement.
+  - Key findings are discussed in the notebook and summary plots.
 
 ---
 ## License
@@ -78,6 +78,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Acknowledgments
-
-- Data: [Our World in Data](https://ourworldindata.org/waste-management)
-- Inspiration: Data science and machine learning open-source community
+  
+  - Data: [Our World in Data](https://ourworldindata.org/waste-management)
+  - Inspiration: Data science and machine learning open-source community
