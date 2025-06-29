@@ -5,6 +5,7 @@ Analyze and visualize global plastic waste patterns using K-Means clustering. Th
 ## Project Overview
 
 Plastic pollution is a critical environmental issue affecting ecosystems and human health worldwide. This project leverages K-Means clustering to group countries by their plastic waste characteristics, aiming to uncover patterns and inform better waste management strategies. The analysis focuses on mismanaged plastic waste per capita and total mismanaged waste, using data from 2010 and 2019.
+![Plastic pollution](data/PW1.jpeg)
 
 ## Data Description
 
